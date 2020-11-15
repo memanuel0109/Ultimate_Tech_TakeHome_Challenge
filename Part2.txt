@@ -1,0 +1,10 @@
+On weekdays: Gotham active at night, Metropolis active during the day
+On weekends: Both are equally active
+
+Experiements: Reimbursting toll costs is being tested to encourage drivers to be available in both cities.
+
+The key measure for success in this experiment would be driver activity in each city, or the amount of active drivers available each hour of the day. It is a cost effective and easy way to indirectly measure the effectiveness of reimbursing toll costs. Should this experiment be successful, you would expect to see an increase in driver activity at night in Metropolis and during the day in Gatham. This would mean drivers are making themselves available even when activity is not high in their respective city. 
+
+A/B hypothesis testing may be done in order to measure the statistical significance of driver activity. Success would result from a p-value lower than 0.05 when comparing driver activity throughout each hour of the day in both cities. The control will be without driver reimbursement, and the experimental group will be with driver reimbursement. 
+
+If the test is statistically significant, adviertising could address the availability of drivers. Say Metropolis is not active at night because rideshare is made less available, this issue may be easily addressed now that more drivers are active locally to rideshare in Gotham. This experiment assumes more drivers make themselves during their lull hours in their respective city in order to drive in the bussier city. 
